@@ -75,6 +75,7 @@ ai-knowledge-tracker/
 │   ├── repositories/
 │   └── api/
 ```
+Environment variables are managed via .env and not committed to version control.
 
 ---
 
