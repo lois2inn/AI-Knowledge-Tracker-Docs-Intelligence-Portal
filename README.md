@@ -53,7 +53,7 @@ This project solves that by:
 * FastAPI
 * SQLAlchemy
 * Alembic
-* PostgreSQL 16
+* PostgreSQL 17
 * pgvector
 * Docker
 * NumPy
