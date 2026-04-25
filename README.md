@@ -151,16 +151,6 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## Key Features
-
-* Asynchronous document processing pipeline
-* Overlap-aware text chunking
-* Vector embeddings stored in PostgreSQL
-* Semantic search using cosine similarity
-* Clean, scalable backend architecture
-
----
-
 ## Future Enhancements
 
 * LLM-powered Q&A over documents (RAG pipeline)
@@ -168,17 +158,6 @@ http://127.0.0.1:8000/docs
 * Frontend dashboard (React)
 * Authentication & user-specific knowledge bases
 * Microservice-based ingestion pipeline
-
----
-
-## Why This Project
-
-This project demonstrates:
-
-* Full-stack backend engineering
-* Data pipeline design for AI systems
-* Real-world use of vector databases
-* Production-ready architecture patterns
 
 ---
 
